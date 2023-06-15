@@ -16,12 +16,12 @@ To do that you need to surf the website and check the API calls of the website. 
   * twitter_url
   * startup_partners_count
   * startup_partners
-      -company_name
-      -logo_url
-      -city
-      -website
-      -country
-      -theme_gd
+      * company_name
+      * logo_url
+      * city
+      * website
+      * country
+      * theme_gd
   * startup_themes
 
 * You can start with using a jupyter notebook or plain python. You need to deliver the data as JSON.
