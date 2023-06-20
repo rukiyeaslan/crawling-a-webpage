@@ -9,4 +9,4 @@ This project is a Python-based web scraping application that collects data from 
 4. Run the following command on your terminal: ```docker run -p 8000:8000 crawl```
 
 ## Usage
-Access the application in your web browser at ```http://0.0.0.0:8000```
+Access the application in your web browser via the [link](http://0.0.0.0:8000)
